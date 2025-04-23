@@ -10,3 +10,5 @@ st.markdown("This app uses various libraries for *automated Exploratory* **Data 
 st.code("""
 import pandas as pd
 """,language='python')
+
+st.text("Upload your CSV file to get started.")
