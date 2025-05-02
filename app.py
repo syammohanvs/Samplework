@@ -203,7 +203,7 @@ def display_supertrend():
             st.session_state.logged_in = False
             st.rerun()
 
-    st.title("📈 Futures Supertrend(10,2)-ADX")
+    st.title("📈 Supertrend - DI Strategy")
 
     instrument_name = st.selectbox("Select Instrument", list(instruments.keys()))
     instrument = instruments[instrument_name]
