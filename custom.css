@@ -1,0 +1,8 @@
+.stCheckbox {
+    font-family: 'YourCustomFont', sans-serif; /* Replace with your font */
+    font-size: 56px; /* Optional: Customize font size */
+}
+
+.stCheckbox label {
+    font-family: 'YourCustomFont', sans-serif; /* Same font as above */
+}
