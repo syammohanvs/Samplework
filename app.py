@@ -448,14 +448,3 @@ def save_settings(instru_settings, common_settings, instrument):
 if __name__ == "__main__":
     main()
    
-
-
-
-
-
-
-
-
-
-
-
